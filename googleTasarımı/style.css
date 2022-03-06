@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    background-color: rgb(221, 220, 220);
+    margin: auto;
+}
+
+.content {
+    text-align: center;
+}
+
+
+
+
+
+.card1{
+    width: 45%;
+    margin: 1px;
+    float: left;
+    background-color: rgb(142, 233, 202);
+    font-size: 20.5px;
+}
+
+.card2 {
+    width: 15%;
+    float: left;
+    background-color: rgb(142, 233, 202);
+    font-size: 15px;
+    margin: 1px
+}
+
+.card3 {
+    width: 39.5%;
+    float: left;
+    background-color: rgb(142, 233, 202);
+    font-size: 11px;
+    margin: 1px;
+    
+}
